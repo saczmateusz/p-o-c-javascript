@@ -1,0 +1,20 @@
+{
+  "name": "javascript_demo",
+  "version": "1.0.0",
+  "description": "Proof of Concept App - Node.js & Express REST API with Sqlite3 database and React.js fronend",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon server"
+  },
+  "author": "ueaiv3",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "cors": "^2.8.5",
+    "express": "^4.16.4",
+    "md5": "^2.2.1",
+    "mongoose": "^5.4.19",
+    "sqlite3": "^4.0.6"
+  }
+}
