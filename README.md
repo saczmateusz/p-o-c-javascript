@@ -16,3 +16,5 @@ Uruchomienie backu
 
 Backend domyślnie startuje pod adresem [http://localhost:8000](http://localhost:8000)
 Można do niego wysyłać zapytania np. Postmanem
+
+### `Aplikacja do poprawnego działania wymaga zainstalowanej bazy danych MongoDB`
